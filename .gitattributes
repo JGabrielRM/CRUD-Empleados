@@ -1,4 +1,4 @@
-*.java linguist-detectable=true  
+*.java linguist-vendored 
 *.js linguist-detectable=true  
 *.jsx linguist-detectable=true  
 *.css linguist-detectable=true  
